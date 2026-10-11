@@ -1,0 +1,10 @@
+# Operating System & IDE Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Source raw materials (Optional: kept untracked or locally archived)
+*.tmp
+*.log
